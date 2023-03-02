@@ -10,6 +10,14 @@
       "StackName": "amplify-svelte-dev-174925",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:951310438138:stack/amplify-svelte-dev-174925/23b00110-b8d7-11ed-84ab-0e6065db26c9",
       "AmplifyAppId": "dt6gxxqpyalqw"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dt6gxxqpyalqw",
+          "type": "manual"
+        }
+      }
     }
   }
 }
