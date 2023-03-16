@@ -1,4 +1,4 @@
-# [Svelte カウンター](https://svelte.d36manz9hvztge.amplifyapp.com/)
+# Svelte カウンター
 
 ## 概要
 
